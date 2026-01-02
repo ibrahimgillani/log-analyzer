@@ -30,5 +30,5 @@ This tool is designed for learning Linux internals, system administration, and D
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/log-analyzer.git
+git clone https://github.com/ibrahimgillani/log-analyzer.git
 cd log-analyzer
